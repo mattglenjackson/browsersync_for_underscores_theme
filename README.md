@@ -21,6 +21,7 @@ This is for Browser-Sync package for _s (underscores) WP theme. These instructio
      composer install
      npm install
      ```
+   - When installing composer packets, you might run into a prompt asking for approval for a packet to be installed, type y for that.
 
 4. **Run Watcher for SCSS to CSS Conversion:**
    - In the command line interface, while still in the theme's root folder, run:
