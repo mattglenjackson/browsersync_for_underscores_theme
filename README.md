@@ -31,6 +31,7 @@ This is for Browser-Sync package for _s (underscores) WP theme. These instructio
    This command starts a watcher that automatically converts SCSS files to CSS whenever changes are made.
 
 5. **Run Browser-Sync Server:**
+   - Since the watch command will not finish running I suggest opening another terminal inside your IDE or another CMD window if you have to run the next command.
    - Still in the command line interface and in the theme's root folder, run:
      ```bash
      npm run sync
