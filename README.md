@@ -1,7 +1,7 @@
 
 # Browser-Sync package installer for _s (underscores) WordPress theme.
 
-This is for Browser-Sync package for _s (underscores) WP theme.
+This is for Browser-Sync package for _s (underscores) WP theme. These instructions assume you already have downloaded your underscores theme and have a local dev environment with the unedited underscore theme inside.
 
 1. **Download Required Files:**
    - Download the `bs-config.js` and `package.json` files.
