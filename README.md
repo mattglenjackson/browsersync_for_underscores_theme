@@ -23,16 +23,9 @@ This is for Browser-Sync package for _s (underscores) WP theme. These instructio
      ```
    - When installing composer packets, you might run into a prompt asking for approval for a packet to be installed, type y for that.
 
-4. **Run Watcher for SCSS to CSS Conversion:**
+4. **Run Watcher for SCSS to CSS Conversion and Browser-Sync Server:**
    - In the command line interface, while still in the theme's root folder, run:
      ```bash
-     npm run watch
+     npm run start
      ```
-   This command starts a watcher that automatically converts SCSS files to CSS whenever changes are made.
-
-5. **Run Browser-Sync Server:**
-   - Still in the command line interface and in the theme's root folder, run:
-     ```bash
-     npm run sync
-     ```
-   This command launches the Browser-Sync server.
+   This command starts a watcher that automatically converts SCSS files to CSS whenever changes are made as well as run Browser-Sync.
