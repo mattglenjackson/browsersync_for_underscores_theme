@@ -28,5 +28,5 @@ This is for Browser-Sync package for _s (underscores) WP theme. These instructio
      ```bash
      npm run dev
      ```
-     - This will start the BrowserSync server and watch for changes in your SCSS files.
+   - This will start the BrowserSync server and watch for changes in your SCSS files.
    
